@@ -15,6 +15,3 @@ class Student{
     }
 };
 
-int main(){
-    student 
-}
