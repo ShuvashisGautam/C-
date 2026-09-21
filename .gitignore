@@ -6,3 +6,8 @@
 /oop_assignment
 /output
 /Practice
+*.exe
+*.o
+*.out
+build/
+output/
